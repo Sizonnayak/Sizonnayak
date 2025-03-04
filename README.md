@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sizonnayak
 - 👀 I’m interested in Machine Learning, Deep Learning
-- 🌱 I’m currently learning AI/ML/DL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning LLMs & AI Agents
+- 💞️ I’m looking to collaborate on AI tpoics
 - 📫 How to reach me ...
 
 <!---
